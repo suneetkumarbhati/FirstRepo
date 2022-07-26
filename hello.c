@@ -2,5 +2,6 @@
 
 int main()
 {
-
-}[printf()[D"")[D[DHello");
+	print("Hello world ");
+	printf("hello all dkdjf");
+}
